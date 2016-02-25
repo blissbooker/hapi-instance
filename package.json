@@ -1,0 +1,19 @@
+{
+  "version": "1.0.0",
+  "name": "hapi-instance",
+  "description": "Hapi plugin to send custom headers stating the current instance.",
+  "main": "lib/index.js",
+  "repository": "blissbooker/hapi-instance",
+  "directories": {
+    "test": "test"
+  },
+  "keywords": [
+    "hapi",
+    "hapi-plugin",
+    "plugin"
+  ],
+  "scripts": {},
+  "dependencies": {
+    "hoek": "^3.0.4"
+  }
+}
